@@ -1,0 +1,1 @@
+Community members are required to abide by the [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/) in all project spaces including (but not limited to) GitHub, Slack, social media, and conferences.
