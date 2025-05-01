@@ -1,0 +1,4 @@
+* @zarf-dev/maintainers @zarf-dev/reviewers
+
+/CODEOWNERS @zarf-dev/tsc
+/LICENSE @zarf-dev/tsc
