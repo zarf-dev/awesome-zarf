@@ -53,8 +53,7 @@ Open a discussion or create an issue if you're unsure about your contribution. W
 
 ## License
 
-By contributing, you agree that your content will be published under the [Apache License 2.0](./LICENSE).
-
+By contributing, you agree that your content will be published under a [Creative Commons Attribution 4.0 International License](./LICENSE).
 ---
 
 Thanks for helping grow the Zarf ecosystem!

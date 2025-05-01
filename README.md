@@ -93,7 +93,7 @@ Want to add your package, tool, or tutorial? We welcome community contributions!
 
 ## License
 
-This repository is licensed under the [Apache License 2.0](LICENSE).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](./LICENSE).
 
 ---
 
