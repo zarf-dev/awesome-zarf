@@ -26,7 +26,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## What is Zarf?
 
-> Zarf makes it easy to package and deploy software into disconnected or secure environments. Think “portable dev/prod clusters” with batteries included.
+> Zarf makes it easy to package and deploy software into disconnected or secure environments.
 
 📦 Zarf packages are declarative, auditable, and easy to create. Each package can bundle containers, Helm charts, raw manifests, data files, binaries, and more.
 
@@ -82,7 +82,7 @@ Learn more: [zarf.dev](https://zarf.dev) | [GitHub](https://github.com/zarf-dev/
 
 Want to add your package, tool, or tutorial? We welcome community contributions!
 
-📩 **[Submit a Pull Request](https://github.com/your-org/awesome-zarf/pulls)** with:
+📩 **[Submit a Pull Request](https://github.com/zarf-dev/awesome-zarf/pulls)** with:
 - Name and description of your contribution
 - Link to your repo or resource
 - Place it in the correct table (alphabetically sorted)

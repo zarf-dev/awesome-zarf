@@ -10,9 +10,9 @@ Please read through this guide before submitting a pull request.
 
 You can contribute:
 
+- Appliance (distro) Packages - batteries included cluster configuration
 - Init Packages – Custom `zarf init` packages for bootstrapping environments
 - Application Packages – Reusable Zarf packages for deploying common apps
-- Utility Packages – Data bundles, tools, scripts, or config helpers
 - Tools & Extensions – Tools that improve or extend Zarf workflows
 - Learning Resources – Blog posts, videos, or guides that teach Zarf concepts
 
